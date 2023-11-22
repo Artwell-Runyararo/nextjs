@@ -53,4 +53,4 @@ jobs:
           app-name: 'testingTresury'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_88E33D870D964B8ABB8AB2B36558F60F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9F8CD922AB14472980F2D517A0457A07 }}
